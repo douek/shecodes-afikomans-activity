@@ -1,4 +1,9 @@
 # shecodes-afikomans-activity
+ &#x202b; מבנה של אתר שאפשר להתחיל ממנו ולהוסיף לו
+https://codepen.io/douek/pen/JjEXmQe
+ &#x202b; בתחתית המסך יש אפשרות לשכפל למשתמש שלך
+ <img width="1792" alt="Screen Shot 2021-03-27 at 14 27 21" src="https://user-images.githubusercontent.com/12955333/112719213-d02c3300-8f08-11eb-8ee6-2a73e949e6a8.png">
+
 
 ## Text when hovering
 טקסט שמופיע רק כש&#x202b; hover מעליו.
