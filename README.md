@@ -6,7 +6,7 @@
 יש להוסיף לתגית class דוגמה:
 
 ```html
-<p class="found-me">Yay you found me!</p>
+<p class="find-me">Yay you found me!</p>
 ```
 
 ולהוסיף את ה&#x202b;css הבא:
@@ -14,11 +14,11 @@
  &#x202b; הצבע השני יהיה הצבע של הטקסט כשעוברים מעליו עם הסמן
  
  ```css
- .found-me {
+ .find-me {
   color: #fff
 }
 
-.found-me:hover {
+.find-me:hover {
   color: #555
 }
  ```
@@ -47,5 +47,28 @@ color: #fff
 ```css
 color: #555
 ```
+
+&#x202b; אפשר לעשות טריק דומה על לינקים כפתורים ועוד
+
+&#x202b; אפשר להכיל את החוק שכאשר עושים hover על משהו אחד הוא משפיע על משהו אחר לדוגמה
+
+HTML
+```html
+<a href="#" class="btn hover-me">Hover Me</a>
+<p class="find-me" >You found Me</>
+```
+CSS
+```css
+.find-me {
+  visibility: hidden;
+}
+
+.hover-me:hover + .find-me {
+  visibility: visible;
+}
+```
+
+&#x202b; השתמשתי פה בproperty visibility אבל אפשר להשתמש גם בצבעים כמו בדוגמה למעלה
+
 
 ## 
