@@ -1,7 +1,9 @@
 # shecodes-afikomans-activity
  &#x202b; מבנה של אתר שאפשר להתחיל ממנו ולהוסיף לו
+
 https://codepen.io/douek/pen/JjEXmQe
- &#x202b; בתחתית המסך יש אפשרות לשכפל למשתמש שלך
+
+&#x202b; בתחתית המסך יש אפשרות לשכפל למשתמש שלך
  <img width="1792" alt="Screen Shot 2021-03-27 at 14 27 21" src="https://user-images.githubusercontent.com/12955333/112719213-d02c3300-8f08-11eb-8ee6-2a73e949e6a8.png">
 
 
@@ -106,4 +108,33 @@ var keyHandler = function (event) {
 document.addEventListener('keydown', keyHandler, false);
 ```
 &#x202b; הסבר מפורט על איך זה עובד נמצא כאן
+
 https://gomakethings.com/how-to-create-a-konami-code-easter-egg-with-vanilla-js/#:~:text=The%20Konami%20Code%20is%20Up,would%20give%20you%2030%20lives.
+
+&#x202b; דוגמה של הקוד רץ
+
+https://codepen.io/cferdinandi/pen/qBWVPqL
+
+## Console Messgae
+&#x202b; הודעות שיוצגו בconsole כאשר פותחים את הdevtools
+&#x202b; יש לשים את הוקד הבא תחת הsection של javascript, אפשר לשנות את הטקסט
+&#x202b; אפשר גם לשנות את הצבעים
+
+```javascript
+console.log('%c Enter Text Here ', 'background: #222; color: #bada55');
+```
+
+&#x202b; כדי לצפות בזה עובד צריך לפתוח את הdevtools של הדפדפן:
+- F12
+- Or press Command + Option + C (Mac) or Control + Shift + C (Windows, Linux, Chrome OS).
+
+&#x202b; וללכת לטאב console
+
+## &#x202b; רעיונות נוספים (אנגלית)
+- https://www.willmaster.com/library/features/how-to-make-an-easter-egg.php
+- https://dev.to/rose/playing-with-easter-eggs-ideas-for-making-your-website-more-fun-1p0p
+
+
+## &#x202b; מקורות
+- https://www.bryanbraun.com/2018/04/01/several-ways-to-hide-easter-eggs-on-your-website/
+- https://codepen.io/javpet/pen/QqMWgd
