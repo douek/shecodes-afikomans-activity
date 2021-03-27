@@ -107,7 +107,7 @@ var keyHandler = function (event) {
 // Listen for keydown events
 document.addEventListener('keydown', keyHandler, false);
 ```
-&#x202b; הסבר מפורט על איך זה עובד נמצא כאן
+&#x202b; הסבר מפורט על איך זה עובד נמצא כאן (אנגלית)
 
 https://gomakethings.com/how-to-create-a-konami-code-easter-egg-with-vanilla-js/#:~:text=The%20Konami%20Code%20is%20Up,would%20give%20you%2030%20lives.
 
@@ -129,6 +129,10 @@ console.log('%c Enter Text Here ', 'background: #222; color: #bada55');
 - Or press Command + Option + C (Mac) or Control + Shift + C (Windows, Linux, Chrome OS).
 
 &#x202b; וללכת לטאב console
+
+## Special Messgae For Specifc Input
+&#x202b; הודעה מיוחד שתקפוץ כשמקלידים משהו ספיציפי בשדה email 
+TODO
 
 ## &#x202b; רעיונות נוספים (אנגלית)
 - https://www.willmaster.com/library/features/how-to-make-an-easter-egg.php
