@@ -4,7 +4,7 @@
 https://codepen.io/douek/pen/BappLyj?editors=0010
 
 
-&#x202b; בתחתית המסך יש אפשרות לשכפל למשתמש שלך
+&#x202b; בתחתית המסך יש אפשרות לשכפל למשתמש של המשתתפת
  <img width="1792" alt="Screen Shot 2021-03-27 at 14 27 21" src="https://user-images.githubusercontent.com/12955333/112719213-d02c3300-8f08-11eb-8ee6-2a73e949e6a8.png">
 
 ## Konami Code - javascript
