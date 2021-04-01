@@ -187,7 +187,7 @@ document.addEventListener("keydown", keyHandler, false);
 - המקלדת כרגע על עברית ולכן אותיות שתבנית לא נספרות (צריך לשנות את המקלדת לאנגלית)
 
 # &#x202b; מקורות
-&#x202b; הסבר מפורט על איך זה עובד נמצא כאן (אנגלית)
+&#x202b;  מקור (אנגלית) עבר התאמות בשביל הפעילות
 
 https://gomakethings.com/how-to-create-a-konami-code-easter-egg-with-vanilla-js/#:~:text=The%20Konami%20Code%20is%20Up,would%20give%20you%2030%20lives.
 
